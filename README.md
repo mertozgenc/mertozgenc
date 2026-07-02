@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/mertozgenc/mertozgenc/main/banner.png)
 # Hi, I'm Mert Özgenç 👋
 
 ## AI Automation Engineer | Full Stack Developer
